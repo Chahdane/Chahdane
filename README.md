@@ -1,1 +1,2 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,dart,git,bash,flutter,docker,vim,html,css,nodejs,react)](#)
+### SKILLS
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,,html,css,nodejs,react,dart,flutter,git,bash,docker,vim)](#)
